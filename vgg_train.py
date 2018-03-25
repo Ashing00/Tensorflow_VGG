@@ -39,7 +39,7 @@ MODEL_NAME = "vgg_cifar_model"
 learning_rate = 0.001
 BATCH_SIZE = 120
 display_step = 10
-TRAINING_STEPS=3000
+TRAINING_STEPS=6000
 # Network Parameters
 n_input = 3072 # cifar data input (img shape: 32x32x3)
 n_classes = 10 # cifar10 total classes (0-9 )
